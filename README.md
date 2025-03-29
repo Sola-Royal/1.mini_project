@@ -1,6 +1,4 @@
-# 1.mini_projectvvsta
-
- >## for Tech-environment-setup
+# 1.mini_project for Tech-environment-setup
 
 >**In this project, I am going to be installing tools and set up accounts**
 
